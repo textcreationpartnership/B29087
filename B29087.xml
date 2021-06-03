@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Rovnd-head vncovered being a moderate triall of his spirit with a distinction betwixt the Round-heads and such as papists call Puritans.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29087</idno><idno type="EEBO-CITATION">12248513</idno>
+  <idno type="VID">197372</idno>
+  <idno type="EEBO-PROQUEST">2240953989</idno>
+  
+            <idno type="STC">Wing R2007</idno>
+            <idno type="OCLC">12248513</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29087)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197372)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E108, no 9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Rovnd-head vncovered being a moderate triall of his spirit with a distinction betwixt the Round-heads and such as papists call Puritans.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Lindsey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Puritans.</term>
+               <term type="topical_term">Roundheads.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197372:1"/>
+            <p>THE ROVND-HEAD <hi>ƲNCOVERED.</hi>
+            </p>
+            <p>Being a moderate triall of his spirit.</p>
+            <p>With a distinction betwixt the Round-heads, and such as Papists call Puritans.</p>
+            <p>
+               <add>27 July</add>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>George Lindsey,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197372:2"/>
+            <pb n="3" facs="tcp:197372:2"/>
+            <head>The Round-head uncovered.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He soul of man being so excel<g ref="char:EOLhyphen"/>lent piece of workmanship of the Almighty Creator, and then so dearely ransomed by his onely Son; she must needs be more tenderly loved, che<g ref="char:EOLhyphen"/>rished and preserved by al the friends of God, then the rest of the Creatures; and consequently more hated, envyed and chased by his enemies. Hence it is that the Devill and his Angels, (her old professed enemies) <hi>Ambit quasi Leo rugens.</hi> Goes about her like a roaring Lion, traceth her steps, and by a long practice in temptation and a deadly rancour, by so much the more cruell, by how much it grows inveterate, doth continually lay traps and ambushes for her destruction; takes all occasions and inclinations to worke upon; and together with her other con<g ref="char:EOLhyphen"/>federate foes make continuall warre against her. Now this warre being onely visible to the intelle<g ref="char:EOLhyphen"/>ctuall sence, or inward eyes of the soule, and those eyes bleared and dimmed with mortality, bodily corruption and frailty; Shee is often beguiled, misled with illusions and false lights in her earth<g ref="char:EOLhyphen"/>ly pilgrimage: And the Devill being all Spirit, and (as our Saviour faith) transforming himselfe (by permission as hee had to tempt <hi>Iob</hi>) into the shape of an Angell of light to deceive us; our poore Soules are thus apt to bee induced into ma<g ref="char:EOLhyphen"/>nifold errors and schismes.</p>
+            <pb n="4" facs="tcp:197372:3"/>
+            <p>By which meanes doubtlesse it cometh to passe that in this long liberty wee have enjoyed of the Gospell (when most reformed Christians take leave to make their owne way, in point of exposi<g ref="char:EOLhyphen"/>tion of Scripture, aswell as in other points of Christian duety) there are sprung up so many strange heresies and opinons. For as in the Primi<g ref="char:EOLhyphen"/>tive Church when the Laiety &amp; unlearned sort were contented with the plaine rule of faith set downe in the Apostles Creed without further peeping into mysteries, or comparing partes of Scripture, to trye or question the truth of other parties; the lives and conversations of humble and devout Christians, and especially of their Pastors; were the bright lamps that lighted them in their way to God: So in these later times, through an un<g ref="char:EOLhyphen"/>confined liberty of expounding, and over pub<g ref="char:EOLhyphen"/>like and unseasonable reasoning and disputing up<g ref="char:EOLhyphen"/>on that subject; every one presuming of his own Talent either of wit or grace; the sacred Text is so abused and mangled with variety of Opinions that it is become the common subject of discourse, aswell in tavernes and upon Alehouse benches, as, in private houses and out walkings. No marvaile then that there are now well-nigh as many Sects and different opinions sprung as there be profes<g ref="char:EOLhyphen"/>sors. But this redounds to the great disparagement of the reformed Church in generall; especially to ours, which hath so long flourished and shined in the worlds view in an Orthodox and setled disci<g ref="char:EOLhyphen"/>pline, without any materiall interruption, and still would flourish, but for a crew of Hypocrites and Round-Heads, who taking the advantage of
+<pb n="5" facs="tcp:197372:3"/> these late unlucky differences betwixt the King and his great Councell, have partly by their lowd whispers, and libellous Pamphlets, and partely by their mutinous assemblies, not onely sent his Highnesse a dangerous voyage into the North; and thereby deprived the whole Kingdome of that happie union betwixt him and his Parliament, which might otherwise have beene expected: But by poysoning the hearts of many a thousand good Protestants, have new made a wide overture a<g ref="char:EOLhyphen"/>mongst many of the illiterate People (of <hi>London</hi> especially) to let in Innovations, both of doctrine and discipline into our Church: which cannot chuse but produce some sad effect of a civill dis<g ref="char:EOLhyphen"/>sention amongst us: forasmuch as there is nothing that so much urgeth mans patience, as to be thrust out of a long continued possession upon new-found pretences, and principally of a setled form of Di<g ref="char:EOLhyphen"/>vine worship; which commonly forerunnes a change of Religion it selfe. But because wee are not yet (thankes be to God) come to that; I will breake off from this tender point, to fall in<g ref="char:EOLhyphen"/>to the description both of that Zealous sort of Christians, which the Papists have long distin<g ref="char:EOLhyphen"/>guished from the colder, and more remisse sorte of Protestants, by the name of Puritans: And of that other sorte who for their hypocrisie may be termed <hi>Anti</hi>-Puritans, or Round-Heads.</p>
+            <p>For the first, as it was given them by that cōmon Adversary the Papists, but by way of mockery for their zeal in Gods cause against them, so in regard the word Puritan carries no sence of disgrace, I could wish them to accept of it, &amp; by making good
+<pb n="6" facs="tcp:197372:4"/> the Title (as our late Protestant Princes have done that of Defendor of the Faith contrary to the <hi>Popes</hi> intention) to confront and beat downe their specious Title of Universality and Superstition, with Chri<g ref="char:EOLhyphen"/>stian purity and plainnesse, and the onely way to be pure indeed.</p>
+            <p>But here let me pause a little, to give some of the unlearned sorte of them, also this Christian Caveat; That whilst they condemne the Papists for replying too much on their own merits, they give them not as just occasion to condemn them for as great a pre<g ref="char:EOLhyphen"/>sumption; which is to trust to their own sence in the exposition of mysterious points of Scripture: But rather to reade and practice those other parties that conduce to a good and vertuous life, without expence of their feable faculties, or perplexing their mindes with things above their reach, as if they studied the Philosophers-stone.</p>
+            <p>For though it be graunted that Gods grace is ne<g ref="char:EOLhyphen"/>ver wanting to a devout soule, yet is it a question whether every mans selfe seeming devotion bee gui<g ref="char:EOLhyphen"/>ded by a right spirit. Therefore it is that St. <hi>Paul</hi> bids us worke our Salvation with feare and trem<g ref="char:EOLhyphen"/>bling. For Satan is a cunning Cheater, and like a <hi>Hocus Pocus,</hi> spies now and then occasions to throw in his false flashes into the soul, upon the sudden extin<g ref="char:EOLhyphen"/>guishment of those true lights of grace, which some<g ref="char:EOLhyphen"/>times are as soon put out as kindled, by the stinking dampe of some odious, unrepented sin, which pas<g ref="char:EOLhyphen"/>sing for currant, and imbraced by presumption, for want of a right examen and triall of the heart, the minde is led awrie with an <hi>ignis fatuus,</hi> or a Will with the wispe towards some dangerous precepice.</p>
+            <pb n="7" facs="tcp:197372:4"/>
+            <p>And it is upon the most spiritual and inaccessi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that the black Enginier practiseth most <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d-fires or illusions, such as make con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their wayes, and are impregnable by the shot of Worldly and Fleshly provocations.</p>
+            <p>Is it not therefore pity that the weed of false zeal should be so firtile in these our times, and so pre<g ref="char:EOLhyphen"/>valent, as to overrun the wholsome herbe of Inte<g ref="char:EOLhyphen"/>gritie? Is it not indeed a lamentable case that by meanes of this Gallimaufry of strange new Sects (united onely in unitie of mischief) our Book of Common Prayer (being every word Scripture) penned doubtlesse by the finger of God, and our decent and our orderly discipline in the House of God, should be thus shamelesly questioned and controverted, not onely by a few of our over sin<g ref="char:EOLhyphen"/>gular Divines, but by the Rable of the illiterate Laietie: who under the specious pretext of op<g ref="char:EOLhyphen"/>posing Popery, and apprehensions of dangers to the Religion and State of England, doe hazard by these uncontrol'd disorders the ruine of them both?</p>
+            <p>Is it not pitie (I say) that our eminent English Church after this long prosperitie, should (like a faire ship at Sea) be overwhelmed by a shole of Herrings: a swarme of buzzing <hi>Round-heads;</hi> a flock of stragled sheep, who misled by some scared Bell-weathers, do thus leap &amp; friske all after each other, over their lawfull bounds into unknown dangers.</p>
+            <p>For admitting the State or Religion were in perill, would it stand with honour of either of them to accept of their preservation from an un<g ref="char:EOLhyphen"/>mershalled and disorderly Rout of Round-heads? such who for the most part, for their unconformity
+<pb n="8" facs="tcp:197372:5"/> in Religion, are as maligne and dangerous as the common Enemy? God forbid. There be regular men enough, and true-hearted to the State and Religion here established, to be intrusted with the defence and conservation of the publike liber<g ref="char:EOLhyphen"/>ty and Priviledge of Parliament without them.</p>
+            <p>It is a wonder to me how these Round-heads (un<g ref="char:EOLhyphen"/>lesse perhaps there be many of them Turners or Wheelers) have thus with their whimsies &amp; devices turned the head of many a good Protestant as round as their own. And though I believe the name of Roundhead was invented by some maligner of Par<g ref="char:EOLhyphen"/>liamentary Priviledges. Yet is it evident, by the time of its first raising, that it was upon occasion of their mutinous clamours and assemblies to the no small disturbance of the King and Parliament.</p>
+            <p>But this terme is grown too general, for though all Citizens and many other civill persons that wear no lockes are by most of the Cavaliers and Souldiers of this time (for antipathy sake) com<g ref="char:EOLhyphen"/>prised in the number of Roundheads, yet am I of opinion, that in judgement of few wise and impar<g ref="char:EOLhyphen"/>tiall men they will be so esteemed.</p>
+            <p>For conclusion, I will onely admonish my Reader (who ever he be) to refrain siding, or to blow the already too much glowing coal of Sedition on ei<g ref="char:EOLhyphen"/>ther side, and with Christian humility to resigne all to Gods Providence, and to the mannaging of the superior Powers. For that can be no right spi<g ref="char:EOLhyphen"/>rit (without doubt) which delights in aggravation of offences, especially in this weighty cause be<g ref="char:EOLhyphen"/>twixt our Soveraigne and his highest Councill the Parliament.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
